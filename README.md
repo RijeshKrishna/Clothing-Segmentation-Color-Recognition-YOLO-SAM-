@@ -35,29 +35,13 @@ This module forms the **foundation for garment understanding** in the Virtual Wa
 
 ---
 
-## 📁 Project Structure
+## Working
 
-```bash
-phase1/
-│
-├── data/
-│   ├── raw_images/        # Input images
-│   └── masks/             # Segmentation masks (generated)
-│
-├── models/
-│   └── sam/
-│       └── sam_vit_b_01ec64.pth
-│
-├── outputs/
-│   ├── json/              # Extracted attributes (color, etc.)
-│   └── visualizations/   # Mask overlays and color swatches
-│
-├── scripts/
-│   ├── yolo_detect.py
-│   ├── sam_segment.py
-│   ├── color_extraction.py
-│   └── visualize_results.py
-│
-├── inspect_model.py
-├── requirements.txt
-└── README.md
+<img width="837" height="324" alt="image" src="https://github.com/user-attachments/assets/abecdd3c-cdd3-492b-8441-ad15b967d917" />
+
+<img width="1151" height="715" alt="image" src="https://github.com/user-attachments/assets/efb2133d-2858-41f4-9278-759a80be1d53" />
+<img width="1135" height="388" alt="image" src="https://github.com/user-attachments/assets/a4d34622-7b07-418c-a541-e4ebd15b4a14" />
+
+
+
+
